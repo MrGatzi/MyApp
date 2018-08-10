@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\BMD\Desktop_12_02_2018\BMD_Daten\Android_APK_Src\Libs\aFileChooser\src\main\assets"/><source path="D:\BMD\Desktop_12_02_2018\BMD_Daten\Android_APK_Src\Libs\aFileChooser\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\BMD\Desktop_12_02_2018\BMD_Daten\Android_APK_Src\Libs\aFileChooser\src\debug\assets"/></dataSet></merger>

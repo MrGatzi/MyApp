@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMD QR-Code Reader</string>
+    <string name="scan">Scan</string>
+    <string name="choose">Choose File !</string>
+    <string name="CryptoFile_String">Choose File :</string>
+    <string name="Counter"></string>
+
+
+</resources>
